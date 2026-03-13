@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Panachai Charoenboonpatchara (Dekgum)!
+# Hi there 👋, I'm Panachai Charoenboonpatchara (Pun)!
 
-**🚀 2nd-Year IoT System & Information Engineering Student @ KMITL | 💡 Aspiring IT Intern**
+**🚀 2nd-Year IoT System & Information Engineering Student @ KMITL**
 
 I am a highly motivated tech enthusiast with a strong passion for **modern web development, UX/UI design, and full-loop IoT systems**. I love blending hardware with software to build smart, automated, and user-centric solutions. 
 
