@@ -6,12 +6,6 @@ I am a highly motivated tech enthusiast with a strong passion for **modern web d
 
 Currently, I am looking for an **IT Internship** opportunity to apply my skills, embrace new challenges, and contribute to impactful real-world projects.
 
-### 🔭 What I'm currently working on & learning:
-- 🎓 Studying IoT System and Information Engineering at KMITL (Year 2)
-- 💻 Building responsive web applications using **React, Vite, and Tailwind CSS**
-- 🎨 Designing intuitive user interfaces and experiences with **Figma**
-- 🔌 Integrating hardware (Raspberry Pi / Arduino) with cloud databases (Firebase / Google Apps Script)
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -37,20 +31,6 @@ Currently, I am looking for an **IT Internship** opportunity to apply my skills,
 
 ---
 
-### 📂 Featured Projects
-* **IOTE Department Centralized Website:** A responsive SPA built with React & Tailwind CSS featuring interactive roadmaps and automated assessments.
-* **Smart Reservation Parking System:** An automated barrier system powered by Raspberry Pi 4, Ultrasonic sensors, and Google Apps Script backend.
-* **TakeMed - Smart Medication Reminder:** An intelligent pillbox using Arduino UNO R4 WiFi and Firebase to track patient medication retrieval.
-* **Smart Bin for Waste Sorting:** An automated bin using Inductive/Ultrasonic sensors to separate recyclable metals from plastic waste.
-
----
-
 ### 📫 Let's Connect!
 - ✉️ **Email:** phankowe@gmail.com
 - 📱 **Mobile:** (+66) 63-145-9199
-- 💼 **LinkedIn:** [Insert Your LinkedIn URL Here]
-
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dekgum&show_icons=true&theme=radium&hide_border=true" alt="Dekgum's GitHub Stats" />
-</div>
